@@ -1,0 +1,27 @@
+Name: Rupesh Thapa
+UON ID: 21422135
+CSY2028 RESIT ASSIGNMENT 1
+
+
+For logging into the database:
+dbname: mydb
+username: student
+password: student
+
+
+homepageurl: localhost:80
+adminuser: admin
+adminpass: admin
+nonadminuser: Rupesh Thapa
+nonadminpassword: rupesh
+
+
+Report:
+
+This is the harvard refrence for ob_start:
+
+Chris Gutierrez, (2013). "warning: Cannot modify header information - headers already sent by" error, Stack Overflow.
+Available at: https://stackoverflow.com/ (Accessed: January 13, 2023).
+ 
+
+ 
